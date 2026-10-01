@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Credit by Cre logo</title>
+  <desc id="desc">Circular black badge with a cream and crimson CRE monogram and the words Credit Rules Everything.</desc>
+  <defs>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#303944"/><stop offset=".5" stop-color="#151b22"/><stop offset="1" stop-color="#303944"/></linearGradient>
+    <linearGradient id="cream" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffef6"/><stop offset="1" stop-color="#c9c8c2"/></linearGradient>
+  </defs>
+  <circle cx="500" cy="500" r="490" fill="#080b10"/>
+  <circle cx="500" cy="500" r="471" fill="none" stroke="url(#ring)" stroke-width="18"/>
+  <circle cx="500" cy="500" r="440" fill="none" stroke="#161d26" stroke-width="8"/>
+  <path d="M286 238a247 247 0 0 1 428 0" fill="none" stroke="#d7192e" stroke-width="12" stroke-linecap="round"/>
+  <path d="M333 277h347" fill="none" stroke="#313946" stroke-width="3"/>
+  <path d="M392 318H252c-73 0-128 38-128 94s55 94 128 94h140" fill="none" stroke="url(#cream)" stroke-width="61" stroke-linecap="round"/>
+  <path d="M344 287h175c70 0 121 35 121 83 0 38-31 65-77 75l98 96h-103l-83-87h-79v87h-70V287Zm70 54v61h93c28 0 47-12 47-31s-19-30-47-30h-93Z" fill="#d7192e"/>
+  <path d="M428 341h79c29 0 47 11 47 30s-18 31-47 31h-79Z" fill="#080b10"/>
+  <path d="M630 315h196M618 412h173M630 509h196" fill="none" stroke="url(#cream)" stroke-width="50" stroke-linecap="square"/>
+  <path d="M631 364h119M631 461h128" stroke="#d7192e" stroke-width="11"/>
+  <path d="M194 590h612" stroke="#313946" stroke-width="3"/>
+  <text x="500" y="657" text-anchor="middle" fill="#f5f3eb" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="700" letter-spacing="5">CREDIT <tspan fill="#d7192e">RULES</tspan> EVERYTHING</text>
+  <path d="M356 700h288" stroke="#d7192e" stroke-width="5"/>
+  <text x="500" y="738" text-anchor="middle" fill="#d6d4cd" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="3">CREDIT RESTORATION &amp; EDUCATION</text>
+  <path d="M417 770h166" stroke="#313946" stroke-width="3"/>
+  <circle cx="500" cy="815" r="8" fill="#d7192e"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Credit by Cre logo</title>
+  <desc id="desc">A geometric CR monogram in ivory and crimson on a near-black rounded square.</desc>
+  <defs>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e12a43"/>
+      <stop offset="1" stop-color="#a81228"/>
+    </linearGradient>
+  </defs>
+  <rect x="18" y="18" width="476" height="476" rx="104" fill="#080a0d" stroke="#353b44" stroke-width="12"/>
+  <path d="M96 170 356 170 420 234 356 298 96 298" fill="none" stroke="#c51e32" stroke-width="14" stroke-linecap="square" stroke-linejoin="miter" opacity=".9"/>
+  <path d="M244 126h-70c-48 0-86 38-86 86s38 86 86 86h70" fill="none" stroke="#f2eee7" stroke-width="34" stroke-linecap="round"/>
+  <path d="M238 126h68c49 0 78 28 78 65 0 30-18 51-44 59l51 48h-57l-48-45h-20v45h-43V126Zm43 38v56h23c23 0 37-11 37-28s-14-28-37-28h-23Z" fill="url(#red)"/>
+  <path d="M301 337h94" stroke="#f2eee7" stroke-width="15" stroke-linecap="square"/>
+  <path d="M301 365h64" stroke="#c51e32" stroke-width="15" stroke-linecap="square"/>
+  <text x="256" y="425" fill="#f2eee7" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" letter-spacing="5">CREDIT BY CRE</text>
+  <path d="M152 452h208" stroke="#c51e32" stroke-width="4" opacity=".85"/>
+</svg>
